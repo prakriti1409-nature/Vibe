@@ -33,3 +33,9 @@ Welcome to **Vibe Check**, a fun and chaotic personality quiz built with React a
    
    git clone https://github.com/yourusername/vibe-check.git
    
+
+
+## 🌍 Live Demo
+
+Check out the live app here: https://vibe-xux5.vercel.app/
+
