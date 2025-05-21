@@ -4,6 +4,7 @@ Welcome to **Vibe Check**, a fun and chaotic personality quiz built with React a
 
 
 
+
 ---
 
 ## 🚀 Features
@@ -38,4 +39,10 @@ Welcome to **Vibe Check**, a fun and chaotic personality quiz built with React a
 ## 🌍 Live Demo
 
 Check out the live app here: https://vibe-xux5.vercel.app/
+
+
+![image](https://github.com/user-attachments/assets/bed490d4-cbae-44cd-955d-db57b2e736bf)
+
+![image](https://github.com/user-attachments/assets/1b369aa0-7987-4402-b215-f42e82358e9e)
+
 
