@@ -39,6 +39,7 @@ Welcome to **Vibe Check**, a fun and chaotic personality quiz built with React a
 ## 🌍 Live Demo
 
 Check out the live app here: https://vibe-xux5.vercel.app/
+##
 https://vibe-xux5.vercel.app/live (for live display of resuts)
 
 
